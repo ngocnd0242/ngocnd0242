@@ -22,23 +22,3 @@
 ```
 
     
-
----
-
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/ngocnd0242/ngocnd0242/master/profile-summary-card-output/rose_pine/1-repos-per-language.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/ngocnd0242/ngocnd0242/master/profile-summary-card-output/rose_pine/2-most-commit-language.svg)
-```
-
-    

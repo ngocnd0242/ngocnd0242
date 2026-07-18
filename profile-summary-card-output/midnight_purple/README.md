@@ -22,23 +22,3 @@
 ```
 
     
-
----
-
-![](./1-repos-per-language.svg)
-
-```
-![](https://raw.githubusercontent.com/ngocnd0242/ngocnd0242/master/profile-summary-card-output/midnight_purple/1-repos-per-language.svg)
-```
-
-    
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/ngocnd0242/ngocnd0242/master/profile-summary-card-output/midnight_purple/2-most-commit-language.svg)
-```
-
-    
